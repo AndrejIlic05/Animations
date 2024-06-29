@@ -2,7 +2,7 @@
 
 Welcome to the **Animations** repository! This project showcases simple yet effective web animations using HTML, CSS, and JavaScript, including text animation, dynamic border line effects, and sliding image animations.
 
-![Animations Screenshot](img/screenshot.png)
+![Animations Screenshot](animations.png)
 
 ## 🔗 Live Demo
 
