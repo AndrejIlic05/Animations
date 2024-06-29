@@ -6,7 +6,7 @@ Welcome to the **Animations** repository! This project showcases simple yet effe
 
 ## 🔗 Live Demo
 
-Try [Animations](https://your-username.github.io/animations/) now!
+Try [Animations](https://andrejilic05.github.io/Animations/) now!
 
 ## 🚀 Features
 
